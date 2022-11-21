@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+	<repo priority="50" quality="experimental">
+		<name>worst-overlay</name>
+		<description>the worst overlay in the world (also known as mine)</description>
+		<homepage>https://github.com/carbonatek/worst-overlay</homepage>
+		<owner>
+			<email>krpisjar@protonmail.com</email>
+			<name>Carbon</name>
+		</owner>
+		<source type="git">https://github.com/carbonatek/worst-overlay.git</source>
+	</repo>
+</repositories>
