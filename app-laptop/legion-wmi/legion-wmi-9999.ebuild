@@ -28,10 +28,7 @@ src_compile() {
 }
 
 src_install() {
-	local DOCS=( docs/{[^i]*.md,descriptors,reports} NEWS.md )
 	linux-mod-r1_src_install
-
-	insinto /etc/modprobe.d
 }
 
 pkg_postinst() {
