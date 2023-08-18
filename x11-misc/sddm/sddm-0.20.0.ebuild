@@ -44,7 +44,7 @@ DEPEND="${COMMON_DEPEND}
 "
 RDEPEND="${COMMON_DEPEND}
 	X? ( x11-base/xorg-server )
-	!custom-compositor? ( dev-libs/weston )
+	!custom-compositor? ( dev-libs/weston[fullscreen] )
 	!systemd? ( gui-libs/display-manager-init )
 "
 BDEPEND="
