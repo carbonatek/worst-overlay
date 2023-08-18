@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>krpisjar@protonmail.com</email>
+		<name>Jaroslav Krpálek</name>
+	</maintainer>
+	<use>
+    <flag name="custom-compositor">Use your own compositor instead of dev-libs/weston (MUST MANUALLY CONFIGURE!)</flag>
+	</use>
+	<upstream>
+		<remote-id type="github">sddm</remote-id>
+	</upstream>
+</pkgmetadata>

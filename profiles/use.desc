@@ -1,4 +1,0 @@
-# Copyright 1999-2023 Gentoo Authors
-# Distributed under the terms of the GNU General Public License v2
-
-custom-compositor - Use your own compositor instead of dev-libs/weston (MUST CONFIGURE MANUALLY)
